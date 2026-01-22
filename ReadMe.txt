@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------------------
+Welcome to the Advanced Platformer Template, I are thrilled that you've chosen to download the Advanced Platformer Template for your game development needs! This template is perfect for prototyping or building off of. 
+
+This Project is CC0 and can be used for personal or commercial usage.
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Key Features:
+
+Dash Functionality
+Double Jump Capability
+Wall Jumping 
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Getting Started
+1. Open GDevelop 
+2. Click on the three bars on top
+3. File > Open > Your Computer
+4. Then open up the folder where you extracted the zip and open the game.json file
+5. Boom! Theres your template
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Happy coding and happy gaming! ~ Matt Pin
+------------------------------------------------------------------------------------------------------------
